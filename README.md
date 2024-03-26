@@ -4,6 +4,7 @@
 A data scientist with +4 years of experience and a women empaworment advocate 🌎 with an operations research back-ground, delivered scalable research and data-driven solutions to solve complex business challenges and optimize operational processes
 
 📍 Berlin, Germany
+
 💬 Ask me about Data, piplines, MILP 
 
 
