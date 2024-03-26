@@ -4,6 +4,8 @@
 A data scientist with +4 years of experience and a women empaworment advocate 🌎 with an operations research back-ground, delivered scalable research and data-driven solutions to solve complex business challenges and optimize operational processes
 
 📍 Berlin, Germany
+💬 Ask me about Data, piplines, MILP 
+
 
 ## Tools I Use
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
