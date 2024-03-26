@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Rana Samir 
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <!--
 **ranasamirr/ranasamirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
