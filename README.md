@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Rana Samir 
 
 ## About Me
-A data scientist with +4 years of experience and a women empaworment advocate with an operations research back-ground, delivered scalable research and data-driven solutions to solve complex
-business challenges and optimize operational processes
+A data scientist with +4 years of experience and a women empaworment advocate 🌎 with an operations research back-ground, delivered scalable research and data-driven solutions to solve complex business challenges and optimize operational processes
+
+📍 Berlin, Germany
 
 ## Tools I Use
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
