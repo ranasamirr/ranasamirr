@@ -5,7 +5,7 @@ A data scientist with +4 years of experience and a women empaworment advocate wi
 business challenges and optimize operational processes
 
 ## Tools I Use
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -29,6 +29,9 @@ business challenges and optimize operational processes
  ![Looker](https://img.shields.io/badge/Looker-003366?style=for-the-badge&logo=looker&logoColor=white)
  ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-F9F9F9?style=for-the-badge&logo=google&logoColor=black)
  ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-666666?style=for-the-badge&logo=microstrategy&logoColor=white)
+
+## Bolg posts
+[Egypt's Tech Scene: Unequal Pay in the Tech Market](https://ranasamir.hashnode.dev/egypts-tech-scene-unequal-pay-in-the-tech-market)
 
 Feel free to explore my repositories and don't hesitate to reach out!
 
