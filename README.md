@@ -5,7 +5,7 @@ A data scientist with +4 years of experience and a women empaworment advocate �
 
 📍 Berlin, Germany
 
-💬 Ask me about Data, piplines, MILP 
+💬 Ask me about Data, Analytics, and MILP 
 
 
 ## Tools I Use
