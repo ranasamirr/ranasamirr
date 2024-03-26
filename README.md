@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Rana Samir 
 
 ## About Me
-Enthusiastic data scientist with an interest in Data Analysis, Operations Optimization, and Machine Learning. I have wide experience practicing different functions related to Marketing, Design, Data, and Product, working in various industries such as Saas, FMCG, Operations, and Logistics. I can manipulate and analyze data using Excel, R, and Python. Build dashboards using Power BI, Google Data Studio, and Tableau.
+A data scientist with +4 years of experience and a women empaworment advocate with an operations research back-ground, delivered scalable research and data-driven solutions to solve complex
+business challenges and optimize operational processes
 
 ## Tools I Use
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
