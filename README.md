@@ -5,7 +5,8 @@ A data scientist with +4 years of experience and a women empaworment advocate wi
 business challenges and optimize operational processes
 
 ## Tools I Use
- ![Python](https://simpleicons.org/icons/python.svg) 
+ ![Python](<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/[ICON SLUG].svg](https://simpleicons.org/icons/python.svg)" />)
+
  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
